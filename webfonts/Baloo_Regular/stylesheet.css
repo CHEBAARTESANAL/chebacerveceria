@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Baloo Regular';
+	src: url('Baloo-Regular.ttf') format('truetype');
+}
+.tm-welcome-section .container.tm-position-relative .row.tm-welcome-content {
+    margin-right: 150px;
+    margin-left: 170px;
+}
